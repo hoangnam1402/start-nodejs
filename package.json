@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/hoangnam1402/start-nodejs/issues"
   },
-  "homepage": "https://github.com/hoangnam1402/start-nodejs#readme"
+  "homepage": "https://github.com/hoangnam1402/start-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
